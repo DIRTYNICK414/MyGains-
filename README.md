@@ -34,7 +34,7 @@ The website will be amazingly simple and user friendly.
 
 •	There will be no limit to the amount of lifts a user can add.
 
-•	Users would be able to update the Starting Max, New Max and the Goal % increase categories. 
+•	Users will be able to update the Starting Max, New Max and the Goal % increase categories. 
 
 •	When the New Goal Max is reached the user will click on “Goal complete” and the chart will shift the data. This will replace the old starting max with the New max, and the old Goal Max will become the New Max.
 
