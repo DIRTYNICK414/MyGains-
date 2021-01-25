@@ -56,4 +56,4 @@ The website will be amazingly **simple** and **user friendly**.
 
 #### Conclusion
 
-In conclusion, “MyGains” is not for recommending what are healthy goals or weights to pursue. It is simply an application for users to easily store their current data, new data they record in the future, and to plan out their aspirations for their gym experience. 
+In conclusion, “MyGains” is **not** for recommending what are healthy goals or weights to pursue. It is simply an application for users to easily store their current data, new data they record in the future, and to plan out their aspirations for their gym experience. 
