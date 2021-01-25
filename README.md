@@ -30,7 +30,7 @@ Which the website will then calculate what the goal max would be off the percent
 
 #### Organize
 
-The website will be amazingly simple and user friendly.
+The website will be amazingly **simple** and **user friendly**.
 
 •	Everything will take place on two pages. 
 
