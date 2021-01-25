@@ -42,7 +42,7 @@ The website will be amazingly simple and user friendly.
 
 •	The top row will consist of current weight and goal weight.
 
-•	The side row will consist of the user’s height and BMI (Body Max Index.
+•	The side row will consist of the user’s height and BMI (Body Max Index).
 
 •	When the user adds information to the top boxes, the application will calculate the user’s in the boxes underneath.
 
