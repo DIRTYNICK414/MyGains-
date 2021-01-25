@@ -1,4 +1,4 @@
-### MyGains-
+### MyGains Application
 ### My 18-Week Project. An ASP.NET MVC Core Web Application for MSSA
 
 Nicholas Edwards
@@ -8,7 +8,7 @@ MSSA CAD
 Jan 23, 2021
 
 
-Project Part 2
+### MyGains
 
 #### INTRO
 
