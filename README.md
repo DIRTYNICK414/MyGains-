@@ -36,25 +36,25 @@ Which the website will then calculate what the goal max would be off the percent
 
 The website will be amazingly **simple** and **user friendly**.
 
-•	*Everything will take place on two pages.* 
+•	*Everything will take place on **two** pages.* 
 
-•	*There will be a one chart with seven lifts including “other” on the side row.*
+•	*There will be a one chart with **seven lifts** including “**other**” on the side row.*
 
-•	*On the top row will be five categories. On the left side there will be six major lifts.*
+•	*On the **top** row will be **five** categories. On the left side there will be six major lifts.*
 
-•	*Starting Max, New Max, % increase, Goal % increase, New Goal Max, will all be on the top row. The side row will consist of six lifts provided by the website. Lifts provided will be bench press, squat, deadlift, hang clean, clean & press and overhead press. The slot under overhead press will be named other where the user can add another lift of their choosing.*
+•	***Starting Max**, **New Max**, **% increase**, **Goal % increase**, **New Goal Max**, will all be on the **top** row. The **side** row will consist of six lifts provided by the website. Lifts provided will be **bench press**, **squat**, **deadlift**, **hang clean**, **clean & press** and **overhead press**. The slot under overhead press will be named "**other**", where the user can add another lift of their choosing.*
 
-•	*There will be no limit to the amount of lifts a user can add.*
+•	*There will be **no limit** to the amount of lifts a user can add.*
 
-•	*Users will be able to update the Starting Max, New Max and the Goal % increase categories.* 
+•	*Users will be able to update the **Starting Max**, **New Max** and the **Goal % increase** categories.* 
 
-•	*When the New Goal Max is reached the user will click on “Goal complete” and the chart will shift the data. This will replace the old starting max with the New max, and the old Goal Max will become the New Max.*
+•	*When the **New Goal Max** is reached the user will click on “**Goal complete**” and the chart will shift the data. This will replace the old starting max with the New max, and the old Goal Max will become the New Max.*
 
-•	*The second table will be for the weight gain/lost chart.*
+•	*The second table will be for the **weight gain/lost** chart.*
 
-•	*The top row will consist of current weight and goal weight.*
+•	*The **top** row will consist of **current weight and goal weight**.*
 
-•	*The side row will consist of the user’s height and BMI (Body Max Index).*
+•	*The **side** row will consist of the user’s **height** and **BMI (Body Max Index)**.*
 
 •	*When the user adds information to the top boxes, the application will calculate the user’s in the boxes underneath.*
 
